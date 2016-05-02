@@ -2,7 +2,7 @@
 Simple jQuery Plugin for adding, removing and checking classes on SVG elements
 
 # Installation
-Just include svgclasses.js to your HTML file.
+Just include jquery.svgclasses.js to your HTML file.
 
 # Usage
 Adding class to SVG element:
